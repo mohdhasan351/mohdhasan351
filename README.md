@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohdhasan351
 - 👀 I’m interested in android development,blockchain and crypto currencies(Assets)
-- 🌱 I’m currently learning adndroid
+- 🌱 I’m currently learning android
 - 📫 How to reach me : telegram: @mohdhasan351
 
 <!---
